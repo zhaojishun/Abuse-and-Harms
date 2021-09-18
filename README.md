@@ -40,11 +40,11 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 2. A flexible text analyzer based on ontologies: an application for detecting discriminatory language.
 
 
-# Offensive
+## Offensive
 1. Predicting the Type and Target of Offensive Posts in Social Media.2019.[PDF](https://arxiv.org/abs/1902.09666)
 
 
-# Microaggressions
+## Microaggressions
 1. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019.[PDF](https://aclanthology.org/D19-1176/)
 
 
