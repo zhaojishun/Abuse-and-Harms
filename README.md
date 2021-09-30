@@ -14,6 +14,7 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 6. [Offensive](#Offensive)
 7. [Microaggressions](#Microaggressions)
 8. [Stereotype](#Stereotype)
+9. 
 
 ## Volume
 1. [Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021)](https://aclanthology.org/2021.woah-1.pdf)
@@ -58,3 +59,6 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 1. The Threat of Stereotype.2004.[PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.469.7026&rep=rep1&type=pdf)
 2. Stereotype Threat.2016.[PDF](https://www.annualreviews.org/doi/full/10.1146/annurev-psych-073115-103235)
 
+
+## t
+1. (Predicting the Type and Target of Offensive Posts in Social Media)[https://aclanthology.org/N19-1144/].2019
