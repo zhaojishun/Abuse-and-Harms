@@ -7,14 +7,15 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 ## Contents
 
 1. [Volume](#Volume)
-2. [Hate speech](#Hate-speech)
-3. [Abusive language](#Abusive-language)
-4. [Cyberbullying](#Cyberbullying)
-5. [Discriminatory](#Discriminatory)
-6. [Offensive](#Offensive)
-7. [Microaggressions](#Microaggressions)
-8. [Stereotype](#Stereotype)
-9. [Datasets](#Datasets)
+2. [Review](#Review)
+3. [Hate speech](#Hate-speech)
+4. [Abusive language](#Abusive-language)
+5. [Cyberbullying](#Cyberbullying)
+6. [Discriminatory](#Discriminatory)
+7. [Offensive](#Offensive)
+8. [Microaggressions](#Microaggressions)
+9. [Stereotype](#Stereotype)
+10. [Datasets](#Datasets)
 
 
 ## Volume
@@ -24,6 +25,9 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 4. [Proceedings of the Third Workshop on Abusive Language Online](https://aclanthology.org/W19-35.pdf)
 5. [Proceedings of the Fourth Workshop on Online Abuse and Harms](https://aclanthology.org/volumes/2020.alw-1/)
 6. [Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021)](https://aclanthology.org/volumes/2021.woah-1/)
+
+## Review
+1. Resources and benchmark corpora for hate speech detection: a systematic review.2021.[HTML](https://link.springer.com/article/10.1007/s10579-020-09502-8)
 
 ## Hate speech 
 1. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter.2016.NAACL.[PDF](https://aclanthology.org/N16-2013.pdf)
