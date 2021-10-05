@@ -71,4 +71,5 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 
 
 ## Datasets
-1. [Predicting the Type and Target of Offensive Posts in Social Media](https://aclanthology.org/N19-1144/) .2019
+1. [hatespeechdata](https://hatespeechdata.com/)
+2. [Predicting the Type and Target of Offensive Posts in Social Media](https://aclanthology.org/N19-1144/) .2019
