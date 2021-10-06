@@ -32,7 +32,8 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 ## Hate speech 
 1. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter.2016.NAACL.[PDF](https://aclanthology.org/N16-2013.pdf)
 2. Automated Hate Speech Detection and the Problem of Offensive Language.2017.[PDF](https://arxiv.org/pdf/1703.04009.pdf)
-3. Towards generalisable hate speech detection: a review on obstacles and solutions.[TML](https://peerj.com/articles/cs-598/)
+3. Multilingual and Multi-Aspect Hate Speech Analysis.2019.EMNLP.[PDF](https://arxiv.org/abs/1908.11049)
+4. Towards generalisable hate speech detection: a review on obstacles and solutions.[TML](https://peerj.com/articles/cs-598/)
 
 
 
