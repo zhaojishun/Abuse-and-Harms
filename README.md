@@ -70,6 +70,10 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 1. The Threat of Stereotype.2004.[PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.469.7026&rep=rep1&type=pdf)
 2. Stereotype Threat.2016.[PDF](https://www.annualreviews.org/doi/full/10.1146/annurev-psych-073115-103235)
 
+### Stereotype in NLP
+1. Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings.2019.NAACL.[PDF](https://arxiv.org/abs/1904.04047)
+2. Gender Stereotypes in Natural Language: Word Embeddings Show Robust Consistency Across Child and Adult Language Corpora of More Than 65 Million Words.2021.[PDF]https://journals.sagepub.com/doi/abs/10.1177/0956797620963619)
+3. Hate Speech Classifiers Learn Human-Like Social Stereotypes.2021.[PDF](https://arxiv.org/abs/2110.14839)
 
 ## Datasets
 1. [hatespeechdata](https://hatespeechdata.com/)
