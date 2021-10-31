@@ -65,6 +65,7 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 ## Stereotype
 ### The Defination of Stereotype
 1. The Psychology of Prejudice, Stereotyping and Discrimination: An Overview.2003.[PDF](https://www.simplypsychology.org/Prejudice.pdf)
+2. Stereotype content model across cultures: Towards universal similarities and some differences.2009.[PDF](https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1348/014466608X314935)
 
 
 ### The Threat of Stereotype
