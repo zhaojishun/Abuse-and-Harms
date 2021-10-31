@@ -34,6 +34,7 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 2. Automated Hate Speech Detection and the Problem of Offensive Language.2017.[PDF](https://arxiv.org/pdf/1703.04009.pdf)
 3. Multilingual and Multi-Aspect Hate Speech Analysis.2019.EMNLP.[PDF](https://arxiv.org/abs/1908.11049)
 4. Towards generalisable hate speech detection: a review on obstacles and solutions.[TML](https://peerj.com/articles/cs-598/)
+5. Latent Hatred: A Benchmark for Understanding Implicit Hate Speech.2021.EMNLP.[PDF](https://arxiv.org/pdf/2109.05322.pdf)
 
 
 
