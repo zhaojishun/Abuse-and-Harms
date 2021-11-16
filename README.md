@@ -27,7 +27,8 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 6. [Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021)](https://aclanthology.org/volumes/2021.woah-1/)
 
 ## Review
-1. Resources and benchmark corpora for hate speech detection: a systematic review.2021.[HTML](https://link.springer.com/article/10.1007/s10579-020-09502-8)
+1. Directions in abusive language training data, a systematic review: Garbage in, garbage out.2020.[HTML](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300)
+2. Resources and benchmark corpora for hate speech detection: a systematic review.2021.[HTML](https://link.springer.com/article/10.1007/s10579-020-09502-8)
 
 ## Hate speech 
 1. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter.2016.NAACL.[PDF](https://aclanthology.org/N16-2013.pdf)
