@@ -82,6 +82,7 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 
 ## Fought
 1. The Effect of Extremist Violence on Hateful Speech Online.
+2. Generating Counter Narratives against Online Hate Speech: Data and Strategies.
 
 ## Datasets
 1. [hatespeechdata](https://hatespeechdata.com/)
