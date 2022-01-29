@@ -15,7 +15,8 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 7. [Offensive](#Offensive)
 8. [Microaggressions](#Microaggressions)
 9. [Stereotype](#Stereotype)
-10. [Datasets](#Datasets)
+10. [Fought](#Fought)
+11. [Datasets](#Datasets)
 
 
 ## Volume
@@ -78,6 +79,9 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 1. Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings.2019.NAACL.[PDF](https://arxiv.org/abs/1904.04047)
 2. Gender Stereotypes in Natural Language: Word Embeddings Show Robust Consistency Across Child and Adult Language Corpora of More Than 65 Million Words.2021.[PDF](https://journals.sagepub.com/doi/abs/10.1177/0956797620963619)
 3. Hate Speech Classifiers Learn Human-Like Social Stereotypes.2021.[PDF](https://arxiv.org/abs/2110.14839)
+
+## Fought
+1. The Effect of Extremist Violence on Hateful Speech Online.
 
 ## Datasets
 1. [hatespeechdata](https://hatespeechdata.com/)
