@@ -59,6 +59,7 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 
 ## Offensive
 1. Predicting the Type and Target of Offensive Posts in Social Media.2019.[PDF](https://arxiv.org/abs/1902.09666)
+2. [COLD: A Benchmark for Chinese Offensive Language Detection](https://arxiv.org/abs/2201.06025).
 
 
 ## Microaggressions
