@@ -34,10 +34,11 @@ In this repo, we list some related work on Abuse and Harms. Corrections and sugg
 ## Hate speech 
 1. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter.2016.NAACL.[PDF](https://aclanthology.org/N16-2013.pdf)
 2. Automated Hate Speech Detection and the Problem of Offensive Language.2017.[PDF](https://arxiv.org/pdf/1703.04009.pdf)
-3. Multilingual and Multi-Aspect Hate Speech Analysis.2019.EMNLP.[PDF](https://arxiv.org/abs/1908.11049)
-4. Towards generalisable hate speech detection: a review on obstacles and solutions.[TML](https://peerj.com/articles/cs-598/)
-5. Social Bias Frames: Reasoning about Social and Power Implications of Language.2020.[PDF](https://aclanthology.org/2020.acl-main.486/)
-6. Latent Hatred: A Benchmark for Understanding Implicit Hate Speech.2021.EMNLP.[PDF](https://arxiv.org/pdf/2109.05322.pdf)
+3. Deep Learning for Hate Speech Detection in Tweets.2017.[PDF](https://dl.acm.org/doi/abs/10.1145/3041021.3054223?casa_token=-joLcSmILrQAAAAA:xznoKqaV1xGr39GzRacPqW9mp4bYLxdoabdic1_oziHsnd50KUyQjjZJ-j44vteuqYcprWTwZIN1)
+4. Multilingual and Multi-Aspect Hate Speech Analysis.2019.EMNLP.[PDF](https://arxiv.org/abs/1908.11049)
+5. Towards generalisable hate speech detection: a review on obstacles and solutions.[TML](https://peerj.com/articles/cs-598/)
+6. Social Bias Frames: Reasoning about Social and Power Implications of Language.2020.[PDF](https://aclanthology.org/2020.acl-main.486/)
+7. Latent Hatred: A Benchmark for Understanding Implicit Hate Speech.2021.EMNLP.[PDF](https://arxiv.org/pdf/2109.05322.pdf)
 
 
 
